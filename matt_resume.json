@@ -1,0 +1,137 @@
+﻿{
+  "basics": {
+    "name": "Matt McGinnis",
+    "label": "Sr Systems Engineer",
+    "picture": "",
+    "email": "matt.mcginnis@emc.com",
+    "phone": "(650) 464-4099",
+    "website": "",
+    "summary": "Matt is married to Deborah and has 2 boys, Joshua age 3 and Zachary age 5.  Seeking a position that will benefit from my technical and pre sales experience with the intent to create sales strategies that expand customer base.  Provide cost effective solutions to customers and improve business processes.  Become a trusted resource who delivers infrastructure solutions to enhance productivity and overall vision.",
+    "location": {
+      "address": "630 Davenwood Court",
+      "postalCode": "95746",
+      "city": "Granite Bay",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "mmcginnis00",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "EMC",
+      "position": "Sr System Engineer",
+      "website": "http://www.emc.com",
+      "startDate": "2012-7-1",
+      "endDate": "",
+      "summary": "Pre-Sales Engineer, or Multitask specialist with all forms of message delivery including Webex, Power-Point, over the wire Demo’s, on-site presentations, EBC’s and one to many events. This includes the parking lot presentation, coffee shop demo and in the car meeting, between meetings.",
+      "highlights": [
+        "Assist the sales team(s) to develop and implement account penetration strategies to produce account specific product, sales plan and vision.",
+        "Support up to 7 mid-market Territory Managers in Mid to Northern California and Nevada.",
+        "Leverage knowledge of competitive solutions to effectively address and dispel customer objections relating to proposed solutions.",
+        "Work closely with customers and channel partners to define the technical requirements and provide solutions for key business drivers and challenges, including current and future goals.",
+        "Responsible for owning CSAT issues and coordinating resources to effect problem resolution."
+      ]
+    },
+    {
+      "company": "Micrel Semiconductor Inc",
+      "position": "Sr Sytems Engineer / Architect",
+      "website": "www.micrel.com",
+      "startDate": "2000",
+      "endDate": "2012",
+      "summary": "Lead architect and Systems engineer for all things datacenter.",
+      "highlights": [
+        "Architect and Administer Microsoft applications including AD, Exchange, SQL Server OS, DNS, DHCP...etc.",
+        "Sole Architect / Engineer / Administrator responsible for VMware environment including multi-site ESX clusters with 90% of company architecture on VMware with HA/FT.",
+        "Responsible for Symantec stack including AV, Endpoint Protection, Enterprise Vault and SSL.",
+        "Responsible for discovering new technologies to enhance business initiatives, as well as providing justification for purchase."
+      ]
+    },
+    {
+      "company": "IBM TSS",
+      "position": "System / Network Engineer",
+      "website": "www.ibm.com",
+      "startDate": "1994",
+      "endDate": "2000",
+      "summary": "Consultant / Architect for multi-site deployments at financial, property management, NFL team…etc",
+      "highlights": [
+        "One of the first 12 people in the group to create a services organization (outsourced IT) within IBM/TSS",
+        "Solo and team deployment scenarios that included travel around the country on a weekly basis",
+        "Progressed into a more diplomatic role to resolve customer conflict issues on deployment and / or personnel.  Essentially fly in to read between the lines and get the project back on track. "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "USNAVY",
+      "area": "Digital Engineering",
+      "studyType": "Digital",
+      "startDate": "1989",
+      "endDate": "1992",
+      "gpa": "",
+      "courses": [
+        "USN \"C\" School - Fire Control Computer",
+        "USN \"A\" School - Advanced Digital "
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "VMware",
+      "level": "",
+      "keywords": [
+        "VCP 4.x - 5.x",
+        "VCenter / HA / DRS / FT"
+      ]
+    },
+    {
+      "name": "MC-ITP",
+      "level": "",
+      "keywords": [
+        "Active Directory",
+        "Exchange",
+        "DNS, DHCP, WINS, Server",
+        "Server, Adv Server , Cluster"
+      ]
+    },
+    {
+      "name": "Symantec",
+      "level": "",
+      "keywords": [
+        "NetBackup",
+        "Enterprise Vault",
+        "Symantec Endpoint Protection"
+      ]
+    },
+    {
+      "name": "EMC",
+      "level": "",
+      "keywords": [
+        "EMCTA ",
+        "EMCPA",
+        "Unisphere / Navisphere"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Family and biking(road or Mountain) now, used to be Skydiving, Scuba and Sand Volleyball",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
